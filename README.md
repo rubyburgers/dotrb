@@ -7,6 +7,8 @@ How do you enter the contest?
 -----------------------------
 Just make a funny and great PR.
 
+That can be a haiku, a song, a draw or anything you think that will work.
+
 And after that I'll pick between all the participants which one wins.
 
 I will maybe ask some judges to help me there.
